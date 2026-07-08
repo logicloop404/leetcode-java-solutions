@@ -1,6 +1,22 @@
+/*
+Problem: 1. Two Sum
+
+Approach:
+- Create a HashMap to store each number along with its index.
+- Traverse the array once.
+- For each element, calculate the complement (target - current element).
+- Check if the complement already exists in the HashMap.
+- If it exists, return the indices of the complement and the current element.
+- Otherwise, store the current element and its index in the HashMap.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+*/
+
 import java.util.HashMap;
 
 class Solution {
+
     public int[] twoSum(int[] nums, int target) {
 
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -19,12 +35,3 @@ class Solution {
         return new int[]{};
     }
 }
-
-// Approach:
-// - Use a HashMap to store each element and its index.
-// - For each element, calculate the complement (target - current element).
-// - If the complement exists in the HashMap, return both indices.
-// - Otherwise, add the current element to the HashMap.
-
-// Time Complexity: O(n)
-// Space Complexity: O(n)
