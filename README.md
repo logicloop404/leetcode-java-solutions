@@ -7,11 +7,11 @@
 
 ---
 
-## 📖 About
+# 📖 About
 
 This repository contains my solutions to **LeetCode** problems implemented in **Java**.
 
-### 🎯 Objectives
+## 🎯 Objectives
 
 - 📚 Master Data Structures & Algorithms
 - 💻 Prepare for Coding Interviews
@@ -21,7 +21,7 @@ This repository contains my solutions to **LeetCode** problems implemented in **
 
 ---
 
-## ☕ Language
+# ☕ Language
 
 - Java
 
@@ -43,6 +43,11 @@ leetcode-java-solutions/
 │   ├── 0238-Product-of-Array-Except-Self.java
 │   └── 0283-Move-Zeroes.java
 │
+├── Strings/
+│   ├── 0014-Longest-Common-Prefix.java
+│   ├── 0242-Valid-Anagram.java
+│   └── 0344-Reverse-String.java
+│
 └── README.md
 ```
 
@@ -55,6 +60,7 @@ leetcode-java-solutions/
 | ✅ Day 1 | Arrays | Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate | Completed |
 | ✅ Day 2 | Arrays | Product of Array Except Self, Maximum Subarray, Move Zeroes | Completed |
 | ✅ Day 3 | Arrays | Merge Sorted Array, Rotate Array, Plus One | Completed |
+| ✅ Day 4 | Strings | Valid Anagram, Longest Common Prefix, Reverse String | Completed |
 
 ---
 
@@ -63,6 +69,7 @@ leetcode-java-solutions/
 | # | Problem | Difficulty | Pattern |
 |---|---------|------------|---------|
 | 1 | Two Sum | Easy | HashMap |
+| 14 | Longest Common Prefix | Easy | String Matching |
 | 53 | Maximum Subarray | Medium | Kadane's Algorithm |
 | 66 | Plus One | Easy | Carry Propagation |
 | 88 | Merge Sorted Array | Easy | Two Pointers |
@@ -70,7 +77,9 @@ leetcode-java-solutions/
 | 189 | Rotate Array | Medium | Array Reversal |
 | 217 | Contains Duplicate | Easy | HashSet |
 | 238 | Product of Array Except Self | Medium | Prefix & Suffix Product |
+| 242 | Valid Anagram | Easy | Frequency Array |
 | 283 | Move Zeroes | Easy | Two Pointers |
+| 344 | Reverse String | Easy | Two Pointers |
 
 ---
 
@@ -78,6 +87,7 @@ leetcode-java-solutions/
 
 - ✅ HashMap
 - ✅ HashSet
+- ✅ Frequency Array
 - ✅ Prefix Product
 - ✅ Suffix Product
 - ✅ Kadane's Algorithm
@@ -86,30 +96,31 @@ leetcode-java-solutions/
 - ✅ Carry Propagation
 - ✅ One-Pass Traversal
 - ✅ In-place Array Manipulation
+- ✅ String Matching
 
 ---
 
 # 📊 Progress
 
-- ✅ Total Problems Solved: **9**
-- 📂 Topics Covered: **Arrays**
+- ✅ Total Problems Solved: **12**
+- 📂 Topics Covered: **Arrays, Strings**
 - ☕ Language: **Java**
 
 ---
 
 # 🎯 Goals
 
-- Solve **300+ LeetCode** problems
-- Master all important DSA patterns
-- Improve problem-solving speed
-- Prepare for product-based company interviews
-- Maintain daily consistency
+- 🎯 Solve **300+ LeetCode** problems
+- 🧠 Master all important DSA patterns
+- ⚡ Improve problem-solving speed
+- 💼 Prepare for product-based company interviews
+- 📅 Maintain daily consistency
 
 ---
 
-## ⭐ Connect with Me
+# 🤝 Connect with Me
 
-**GitHub:** https://github.com/logicloop404
+- **GitHub:** https://github.com/logicloop404
 
 ---
 
