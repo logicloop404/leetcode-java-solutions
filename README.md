@@ -117,15 +117,7 @@ leetcode-java-solutions/
 
 ---
 
-# 🎯 Goals
 
-- 🎯 Solve **300+ LeetCode** problems
-- 🧠 Master all important DSA patterns
-- ⚡ Improve problem-solving speed
-- 💼 Prepare for product-based company interviews
-- 📅 Maintain daily consistency
-
----
 
 # 🤝 Connect with Me
 
